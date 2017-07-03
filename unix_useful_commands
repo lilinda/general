@@ -2,3 +2,6 @@
 space:
 df -k
 du -sk 
+
+loops:
+for i in $(ls *); do echo $i; done
