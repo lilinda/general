@@ -1,1 +1,4 @@
 
+space:
+df -k
+du -sk 
